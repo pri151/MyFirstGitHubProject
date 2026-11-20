@@ -1,1 +1,2 @@
 ﻿Hello! I am learning Git branches.
+I am learning Git and GitHub.
