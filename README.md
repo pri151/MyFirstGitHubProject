@@ -16,3 +16,6 @@ This is my first practice repository.
 ## Developer
 
 Pranita
+## My Learning Journey
+
+I have successfully cloned my first GitHub repository!
