@@ -1,4 +1,1 @@
-﻿Hello! I am learning Git branches.
-I am learning Git and GitHub.
-I am learning Git from branch 2.
-I am learning Git from conflict B.
+﻿I am learning Git from both branches.
